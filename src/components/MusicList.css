@@ -1,0 +1,29 @@
+.music_item {
+  display: flex;
+  font-weight: 500;
+  /* justify-content: space-between; */
+}
+
+.app {
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.right_float > button {
+  padding: 4px;
+  margin: 3px;
+  border-radius: 7px;
+  background-color: blueviolet;
+  color: white;
+  border: none;
+}
+
+.leftFloat_content {
+  display: flex;
+  margin-left: 100px;
+}
+
+.leftFloat_content > p {
+  margin-left: 100px;
+}
